@@ -1,0 +1,4 @@
+{
+  "src/**/*.{vue,js}": ["npm run prettier", "npm run eslint"],
+  "src/**/*.{vue,scss,css,less}": ["npm run stylelint:out"]
+}
