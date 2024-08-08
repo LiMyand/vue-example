@@ -13,7 +13,6 @@
   "arrowParens": "avoid",
   "endOfLine": "auto",
   "embeddedLanguageFormatting": "auto",
-  "vueIndentScriptAndStyle": true,
   "singleAttributePerLine": false,
   "htmlWhitespaceSensitivity": "css",
   "requirePragma": false,
