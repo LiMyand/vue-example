@@ -36,6 +36,24 @@ const baseRoutes: RouteRecordRaw[] = [
         name: 'Sub4',
         component: () => import('@/views/test/test4/index.vue'),
         meta: { title: '4.海浪动画' },
+      },
+      {
+        path: 'sub5',
+        name: 'Sub5',
+        component: () => import('@/views/test/test5/index.vue'),
+        meta: { title: '5. progress nav' },
+      },
+      {
+        path: 'sub6',
+        name: 'Sub6',
+        component: () => import('@/views/test/test6/index.vue'),
+        meta: { title: '6. 动画' },
+      },
+      {
+        path: 'sub7',
+        name: 'Sub7',
+        component: () => import('@/views/test/test7/index.vue'),
+        meta: { title: '7. 动画' },
       }
     ],
   },

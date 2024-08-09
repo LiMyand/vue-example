@@ -1,5 +1,12 @@
 <template>
-  <div class="p-10">用于记录一些vue3中的一些功能实现或者是一些平常遇到的一些比较好的功能的复现</div>
+  <div id="homePageContent"  class="p-10 flex">
+    <div id="left-nav" class="w-48 h-full">
+      
+    </div>
+    <div id="right-article">
+
+    </div>
+  </div>
 </template>
 
 <script setup lang="ts">

@@ -1,3 +1,4 @@
+<!-- @/views/test/test4/index.vue CSS波浪动画效果 -->
 <template>
   <div>
     <div class="header">
@@ -14,14 +15,11 @@
         </g>
       </svg>
     </div>
-    <div class="content flex">
-      <p>By.Goodkatz | Free to use</p>
-    </div>
   </div>
 </template>
 
 <script setup lang="ts">
-// No script logic required for this component
+console.log('海浪的CSS效果')
 </script>
 
 <style scoped>

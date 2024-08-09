@@ -1,5 +1,5 @@
 <template>
-  <div id="mainContent">
+  <div id="mainContent" class=" overflow-auto">
     <div>
       <slot></slot> <!-- 默认插槽 -->
       <slot name="footer"></slot> <!-- 具名插槽 -->
